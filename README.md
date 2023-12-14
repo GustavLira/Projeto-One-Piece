@@ -27,5 +27,5 @@ O principal objetivo deste projeto é criar uma página atraente e funcional em 
 
 ## Deploy
 O projeto está disponível em [Projeto-OnePiece no Vercel](https://projeto-one-piece-eta.vercel.app) para visualização.
-
+ 
 Seja bem-vindo ao Projeto-OnePiece, e sinta-se à vontade para contribuir ou entrar em contato conosco!
