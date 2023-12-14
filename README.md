@@ -22,7 +22,7 @@ O principal objetivo deste projeto é criar uma página atraente e funcional em 
 - Animar a página utilizando javascript.
 
 ## Preview
-![preview]
+![Preview OP](https://github.com/GustavLira/Projeto-One-Piece/assets/140671152/c7d9702a-6125-4722-925e-1fc9c0eec113)
 
 
 ## Deploy
